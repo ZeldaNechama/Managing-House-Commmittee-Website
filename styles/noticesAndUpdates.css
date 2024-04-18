@@ -1,0 +1,15 @@
+body{
+    color: #fff;
+    background-color: black;
+    background-image: url(../assets/שחור1.jpg);
+    text-align: center;
+}
+.logo{
+    /* width: 200px;
+    height: auto; */
+    width: auto;
+    height: 200px;
+}
+a{
+    color: #fff;
+}

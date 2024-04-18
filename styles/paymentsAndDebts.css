@@ -1,0 +1,26 @@
+*{
+    direction: rtl;
+}
+#top-pic{
+    background-image: url(../assets/bills-and-finances.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-blend-mode: multiply;
+    top: 0;
+    padding-top: 200px;
+    padding-bottom: 50px;
+    /* margin-top: 5px; */
+    margin-bottom: 10px;
+}
+#top-pic>h1{
+    direction: ltr;
+    font-size: 72px;
+    -webkit-text-stroke: 3px #bbb;
+}
+/* #searchLabel{
+    width: 50px;
+    height: auto;
+    justify-content: center;
+    opacity: 0.2;
+} */

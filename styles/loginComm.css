@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+}
+#top-pic{
+    background-image: url(../assets/micah-williams-lmFJOx7hPc4-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-blend-mode: multiply;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    margin-bottom: 15px;
+}
+#top-pic> h1{
+    color: #fff;
+    font-size:72px;
+   
+}
+#code{
+    background-color:#41657b;
+    color:#fff;
+}
+#code:hover{
+    background-color:#41657b;
+    color:#fff;
+}
+#code::placeholder{
+    color: #fff;
+}

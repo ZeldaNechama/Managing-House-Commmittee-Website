@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+
+    <h1>להכנת פרופיל לבניין מלא את הפרטים הבאים</h1>
+    <form id="buildingForm">
+        <input type="password" id="buildingId" name="buildingId" placeholder=" enter building Id" required><br>
+        <input type="text" id="buildingAdress" name="buildingAdress" placeholder="enter building Adress" required><br>
+        <input type="text" id="houseCommite" name="houseCommite" placeholder="enter house Commite"><br>
+        <input type="email" id="emailhouseCommite" name="emailhouseCommite"
+            placeholder="enter email of houseCommite"><br>
+        <input type="tel" id="telHouseCommite" name="telhouseCommite" placeholder="enter tel"><br>
+        <button id="bpSumbit" class="btn btn-secondary">שליחת הנתונים לצורך בניית בנין חדש</button>
+    </form>
+    <div id="cardafterAlert">
+        <div class="card w-75 mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                <a href="mailto:building@gmail.com?subject=יצירת פרופיל בנין חדש&body=שליחת מייל אוטמטי עם טופס הרשמה">שליחת
+                    מייל למזכירה</a>
+            </div>
+        </div>
+    </div>
+
+    <meta name="viewport" content="width=device-width" , initial-scale="1.0">
+</body>
+<script src="../scripts/buildingProfile.js"></script>
+<script src="../jasons/tents.json"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+    crossorigin="anonymous"></script>
+
+</html>

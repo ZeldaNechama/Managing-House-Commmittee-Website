@@ -1,0 +1,172 @@
+[
+    {
+        "tenetId": 1,
+        "tenetCode":111222444,
+        "tenetFirstName": "יהודה",
+        "tenetLastName": "כהן",
+        "tenetPhoneNum": "054987452",
+        "tenetEmail": "yeuda@gmail.com",
+        "debt": 500
+        ,"comm":0
+    },
+    {
+        "tenetId": 2,
+        "tenetCode":333222333,
+        "tenetFirstName": "ישראל",
+        "tenetLastName": "ישראלי",
+        "tenetPhoneNum": "089761522",
+        "tenetEmail": "yisrael@gmail.com",
+        "debt": 20
+        ,"comm":0
+    },
+    {
+        "tenetId": 3,
+        "tenetCode":111222333,
+        "tenetFirstName": "לוי",
+        "tenetLastName": "גרין",
+        "tenetPhoneNum": "055424781",
+        "tenetEmail": "055424781@gmail.com",
+        "debt": 0
+        ,"comm":0
+    },
+    {
+        "tenetId": 4,
+        "tenetCode":123456789,
+        "tenetFirstName": "יששכר",
+        "tenetLastName": "פרידמן",
+        "tenetPhoneNum": "",
+        "tenetEmail": "fridman@gmail.com",
+        "debt": 500
+        ,"comm":0
+    },
+    {
+        "tenetId": 5,
+        "tenetCode":234567891,
+        "tenetFirstName": "שמואל",
+        "tenetLastName": "יעקובוביץ",
+        "tenetPhoneNum": "086662558",
+        "tenetEmail": "",
+        "debt": 200
+        ,"comm":0
+    },
+    {
+        "tenetId": 6,
+        "tenetCode":2345678910,
+        "tenetFirstName": "יהודה",
+        "tenetLastName": "גרין",
+        "tenetPhoneNum": "055324781",
+        "tenetEmail": "green1@gmail.com",
+        "debt": 4000
+        ,"comm":0
+    },
+    {
+        "tenetId": 7,
+        "tenetCode":45678911,
+        "tenetFirstName": "יששכר",
+        "tenetLastName": "פרידמן",
+        "tenetPhoneNum": "",
+        "tenetEmail": "yfridman@gmail.com",
+        "debt": 250
+        ,"comm":0
+    },
+    {
+        "tenetId": 8,
+        "tenetCode":345678912,
+        "tenetFirstName": "יוחאי",
+        "tenetLastName": "לייזרוב",
+        "tenetPhoneNum": "089541230",
+        "tenetEmail": "",
+        "debt": 25
+        ,"comm":0
+    },
+    {
+        "tenetId": 9,
+        "tenetCode":345678913,
+        "tenetFirstName": "גרשון",
+        "tenetLastName": "שפילמן",
+        "tenetPhoneNum": "05898741250",
+        "tenetEmail": "",
+        "debt": 21
+        ,"comm":0
+    },
+    {
+        "tenetId": 10,
+        "tenetCode":345678914,
+        "tenetFirstName": "יהודה",
+        "tenetLastName": "גרשננוביץ",
+        "tenetPhoneNum": "",
+        "tenetEmail": "ygersh@gmail.com",
+        "debt": 220
+        ,"comm":0
+    },
+    {
+        "tenetId": 11,
+        "tenetCode":345678915,
+        "tenetFirstName": "יוסף",
+        "tenetLastName": "שמאולביץ",
+        "tenetPhoneNum": "0555478155",
+        "tenetEmail": "y055s@outlook.com",
+        "debt": 20
+        ,"comm":0
+    },
+    {
+        "tenetId": 12,
+        "tenetCode":345678916,
+        "tenetFirstName": "משה",
+        "tenetLastName": "יוספי",
+        "tenetPhoneNum": "055424781",
+        "tenetEmail": "moshe@outlook.com",
+        "debt": 50
+        ,"comm":0
+    },
+    {
+        "tenetId": 13,
+        "tenetCode":345678917,
+        "tenetFirstName": "יששכר",
+        "tenetLastName": "לוי",
+        "tenetPhoneNum": "",
+        "tenetEmail": "levis@gmail.com",
+        "debt": 20
+        ,"comm":0
+    },
+    {
+        "tenetId": 14,
+        "tenetCode":345678918,
+        "tenetFirstName": "שמואל ",
+        "tenetLastName": "רבינוביץ",
+        "tenetPhoneNum": "089741552",
+        "tenetEmail": "",
+        "debt": 2
+        ,"comm":0
+    },
+    {
+        "tenetId": 15,
+        "tenetCode":345678919,
+        "tenetFirstName": "לוי",
+        "tenetLastName": "כהן",
+        "tenetPhoneNum": "0548547142",
+        "tenetEmail": "0548547142@gmail.com",
+        "debt": 0
+        ,"comm":0
+    },
+    {
+        "tenetId": 16,
+        "tenetCode": 345678920,
+        "tenetFirstName": "שמחה",
+        "tenetLastName": "פרידמן",
+        "tenetPhoneNum": "",
+        "tenetEmail": "fridman@gmail.com",
+        "debt": 0
+        ,"comm":0
+    },
+    {
+        "tenetId": 17,
+        "tenetCode":345678921,
+        "tenetFirstName": "שמואל",
+        "tenetLastName": "נחשוני",
+        "tenetPhoneNum": "08999477",
+        "tenetEmail": "shmueln@outlook.com",
+        "debt": 0,
+        "comm":0
+    }
+]

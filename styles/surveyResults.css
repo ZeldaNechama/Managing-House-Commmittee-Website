@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    /* font-weight: bold; */
+}
+#pic {
+   /* justify-content: left;
+   justify-items: left;
+   width: 500px;
+   height: auto;
+   opacity:0.5;
+   border: 3px solid black; */
+   /* border-color: black; */
+    /* background: fixed; */
+    /* z-index: -1;
+   left:5px ; */
+    /* text-align: center; */
+    /* padding-top: 10px;
+    padding-bottom: 5px; */
+    /* background-image: url(../assets/בחירות2.jpg);
+    padding: 20px;
+    bottom: 5px;
+    background-repeat: no-repeat; */
+    /* background- */
+    /* margin-top: 5px;
+    margin-bottom: 12px; */
+    /* width:500px; */
+    /* height: auto; */
+    /* z-index: 1; */
+    
+     
+        background-image: url(../assets/סקר2.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        background-blend-mode: multiply;
+        padding-top: 150px;
+        padding-bottom: 50px;
+        
+        /* margin-top:50px; */
+        /* margin-bottom: 12px; */
+        width: 100%;
+        height: auto;
+        /* z-index: 1; */
+  
+}
+#pic>h1{
+    color: white;
+    text-align: center;
+    z-index: 2;
+   font-size: 35px;
+  }
+#headpicture{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background-image: url(./assets/הורדה\ \(16\).jpg);
+    /* margin-top: 15px; */
+    margin-bottom: 20px;
+    width: 100%;
+    z-index: 1;
+ }
+
+#saeTopNanv {
+    color: rgb(183, 178, 183);
+}
+.logo{
+    height: 70px;
+    width: auto;
+}

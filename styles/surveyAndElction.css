@@ -1,0 +1,104 @@
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    direction: rtl;
+}
+/* body {
+    text-align: center;
+    /* justify-items: center; */
+  /* //==  background-image: url(../assets/בחירות2.jpg); */
+    /* background-repeat: no-repeat;
+    background-position: center; */
+    /* opacity: 0.5; */
+/* } */
+#saeTopNanv {
+    background-color: rgb(9, 9, 9);
+    display: inline;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    position: absolute;
+    padding: 25px;
+    z-index: 2;
+    line-height: 100%;
+    padding: 22px;
+    font-size: 20px;
+    color: goldenrod;
+}
+#picture-top{
+    background-image: url(../assets/terrorist-2481808_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-blend-mode: multiply;
+    /* margin-top: 10px; */
+    padding-top: 150px;
+    padding-bottom: 70px;
+    margin-bottom: 15px;
+}
+.div-top h1{
+    color: #fff;
+     font-size: 69px;
+    -webkit-text-stroke: 2px #fb2c49;
+   
+}
+.div-top h2{
+    color:#fb2c49;
+    font-size: 60px;
+    /* text-decoration: dotted; */
+    -webkit-text-stroke: 2px #fff;
+    
+}
+.div-top h3{
+    color: #fff;
+    font-size: 40px;
+    /* font-weight: bolder; */
+    -webkit-text-stroke: 2px #fb2c49;
+}
+.back-vidow {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.logo{
+    height: 70px;
+    width: auto;
+}
+
+@media(min-aspect-ratio:16/9) {
+    .back-vidow {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media(max-aspect-ratio:16/9) {
+    .back-vidow {
+        width: auto;
+        height: 100%;
+    }
+}
+label{
+    font-weight: bold;
+}
+mark{
+    background-color: yellow;
+}
+/* #formSurvey{
+    /* background-color:rgb(217, 217, 88);
+    width: 950px;
+    /* margin-right: 50%; */
+    /* text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center; */ 
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: flex-start; */
+    /* background-color: rgb(247, 231, 255); */
+    /* width: 40%; */
+/* } */ 

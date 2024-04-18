@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+}
+#top-pic{
+    background-image: url(../assets/wepik-export-20230828100601keTi.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-blend-mode: multiply;
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+#top-pic>h1{
+   font-size: 72px;
+    -webkit-text-stroke: 3px black;
+}
+#border{
+    border: 50px black;
+}

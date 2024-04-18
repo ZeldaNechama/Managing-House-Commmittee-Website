@@ -1,0 +1,91 @@
+*{
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+}
+#tasks {
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    font-size: 24px;
+    border: 2px solid #fff;
+    padding: 14px 70px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+/* #m {
+    margin-top: 10px;
+} */
+
+#it {
+    color: rgba(221, 7, 7, 0.806);
+}
+
+#saeTopNanv {
+    /* background-color: rgb(9, 9, 9);
+    display: inline;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    position: absolute;
+    padding: 25px;
+    z-index: 2;
+    line-height: 100%;
+    padding: 22px;
+    font-size: 20px; */
+    color: goldenrod;
+}
+
+.logo {
+    height: 70px;
+    width: auto;
+}
+
+#tasks{ 
+    display: inline-flex;
+    /* flex-direction: row; */
+    justify-content:space-around ;
+}
+#top-pic {
+    background-image: url(../assets/External-House-Committee.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    /* background-blend-mode: multiply; */
+    padding-top: 100px;
+    padding-bottom: 150px;
+    margin-bottom: 10px;
+}
+#top-pic>span{
+    align-items: center;
+    /* color:rgb(32, 30, 30); */
+    color: #fff;
+    -webkit-text-stroke: rgb(32, 30, 30) 1px;
+    font-size: 72px;
+    /* font-weight: bold; */
+    /* -webkit-text-stroke: #fff 2px ; */
+}
+
+.back-vidow {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+@media(min-aspect-ratio:16/9) {
+    .back-vidow {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media(max-aspect-ratio:16/9) {
+    .back-vidow {
+        width: auto;
+        height: 100%;
+    }
+}

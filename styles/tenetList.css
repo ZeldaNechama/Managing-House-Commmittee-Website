@@ -1,0 +1,72 @@
+h1 {
+   font-style: oblique;
+   margin-top: 5px;
+   color: #fff;
+   font-family: sans-serif;
+   font-weight: bolder;
+   text-align: center;
+
+}
+
+body {
+   background-color: rgb(16, 16, 16);
+   color: #fff;
+   
+   /* animation-name: change-background;
+   animation-iteration-count: infinite;
+   animation-duration: 15s; */
+
+
+}
+#top-nav{
+   color: #fff;
+}
+#table-tenets{
+   margin-bottom: 50px;
+}
+@keyframes change-background {
+   0% {
+      background-color: rgba(86, 9, 180, 0.842);
+      ;
+      color: rgb(62, 214, 234);
+      ;
+   }
+
+   50% {
+      background-color: rgb(62, 214, 234);
+      ;
+      color: rgba(86, 9, 180, 0.842);
+   }
+
+   100% {
+      background-color: rgba(86, 9, 180, 0.842);
+      ;
+      color: rgb(62, 214, 234);
+   }
+}
+#table-style{
+   direction: rtl;
+}
+button{
+  margin-left: 50%;
+}
+.back-vidow {
+   position: absolute;
+   right: 0;
+   bottom: 0;
+   z-index: -1;
+}
+
+@media(min-aspect-ratio:16/9) {
+   .back-vidow {
+      width: 100%;
+      height: auto;
+   }
+}
+
+@media(max-aspect-ratio:16/9) {
+   .back-vidow {
+      width: auto;
+      height: 100%;
+   }
+}
