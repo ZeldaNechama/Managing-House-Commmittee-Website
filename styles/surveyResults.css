@@ -2,7 +2,6 @@ body{
     text-align: center;
     justify-content: center;
     align-items: center;
-    /* font-weight: bold; */
 }
 #pic {   
         background-image: url(../assets/סקר2.webp);
@@ -12,9 +11,6 @@ body{
         background-blend-mode: multiply;
         padding-top: 150px;
         padding-bottom: 50px;
-        
-        /* margin-top:50px; */
-        /* margin-bottom: 12px; */
         width: 100%;
         height: auto;
         /* z-index: 1; */
