@@ -27,7 +27,6 @@ body{
     background-size: cover;
     background-position: center center;
     background-blend-mode: multiply;
-    /* margin-top: 10px; */
     padding-top: 150px;
     padding-bottom: 70px;
     margin-bottom: 15px;
@@ -41,14 +40,12 @@ body{
 .div-top h2{
     color:#fb2c49;
     font-size: 60px;
-    /* text-decoration: dotted; */
     -webkit-text-stroke: 2px #fff;
     
 }
 .div-top h3{
     color: #fff;
     font-size: 40px;
-    /* font-weight: bolder; */
     -webkit-text-stroke: 2px #fb2c49;
 }
 .back-vidow {
