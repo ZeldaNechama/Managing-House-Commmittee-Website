@@ -14,28 +14,13 @@
     margin-top: 20px;
 }
 
-/* #m {
-    margin-top: 10px;
-} */
+
 
 #it {
     color: rgba(221, 7, 7, 0.806);
 }
 
 #saeTopNanv {
-    /* background-color: rgb(9, 9, 9);
-    display: inline;
-    display: flex;
-    width: 100%;
-    flex-direction: row;
-    justify-content: space-evenly;
-    flex-wrap: nowrap;
-    position: absolute;
-    padding: 25px;
-    z-index: 2;
-    line-height: 100%;
-    padding: 22px;
-    font-size: 20px; */
     color: goldenrod;
 }
 
@@ -54,19 +39,15 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    /* background-blend-mode: multiply; */
     padding-top: 100px;
     padding-bottom: 150px;
     margin-bottom: 10px;
 }
 #top-pic>span{
     align-items: center;
-    /* color:rgb(32, 30, 30); */
     color: #fff;
     -webkit-text-stroke: rgb(32, 30, 30) 1px;
     font-size: 72px;
-    /* font-weight: bold; */
-    /* -webkit-text-stroke: #fff 2px ; */
 }
 
 .back-vidow {
